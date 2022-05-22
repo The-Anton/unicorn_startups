@@ -100,3 +100,15 @@
  - [ ]	Oxyzo
  - [ ]	Games 24x7
  - [ ]	Open
+
+
+Top Singapore Companies/Startup Hiring from India 
+
+ - [ ] Shopee
+ - [ ] Bytedance/Tiktok
+ - [ ] Grab
+ - [ ] Gojek
+ - [ ] Ninja Van
+ - [ ] Foodpanda
+ - [ ] Visa
+ - [ ] Zendesk
