@@ -89,7 +89,7 @@
  - [ ]	LEAD School
  - [ ]	Darwinbox
  - [ ]	DealShare
- - [ ]	ElasticRun
+ - [x]	ElasticRun
  - [ ]	Livspace
  - [ ]	Xpressbees
  - [ ]	Uniphore
